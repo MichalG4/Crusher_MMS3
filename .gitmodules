@@ -1,0 +1,3 @@
+[submodule "lib/Chainbus_library"]
+	path = lib/Chainbus_library
+	url = https://github.com/KoNaR-Hefajstos/Chainbus_library.git
